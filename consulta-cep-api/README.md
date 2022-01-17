@@ -10,4 +10,4 @@ Como realizar a busca?
  - Execute o comando npm install.
  - Execute o comando node index.js para gerar o conteudo do cep informado.
 
- Obs: Caso queira consultar outro cep, basta trocar o número que está localizado no arquivo
+ Obs: Caso queira consultar outro cep, basta trocar o número que está localizado no arquivo index.js
